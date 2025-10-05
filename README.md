@@ -14,16 +14,14 @@ Convert your app screenshots to App Store required dimensions with ease!
 ## 📱 Supported Dimensions
 
 ### iPhone
-- 1290 × 2796px (iPhone 15 Pro, 14 Pro, 13 Pro)
-- 1320 × 2868px (iPhone 15 Pro Max, 14 Pro Max)
-- 2796 × 1290px (iPhone Landscape)
-- 2868 × 1320px (iPhone Landscape)
+- 1242 × 2688px (iPhone Portrait)
+- 1284 × 2778px (iPhone Portrait)
+- 2688 × 1242px (iPhone Landscape)
+- 2778 × 1284px (iPhone Landscape)
 
 ### iPad
-- 2064 × 2752px (iPad Pro 11-inch, iPad Air)
-- 2048 × 2732px (iPad Pro 12.9-inch)
-- 2752 × 2064px (iPad Landscape)
-- 2732 × 2048px (iPad Landscape)
+- 2064 × 2752px, 2048 × 2732px (iPad Portrait)
+- 2752 × 2064px, 2732 × 2048px (iPad Landscape)
 
 ## 🚀 Usage
 
